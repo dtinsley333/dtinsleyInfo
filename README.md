@@ -1,7 +1,9 @@
 ### About Denise Tinsley
 # A public place to post things related to projects or community involvement.
 
+[Nashville .NET-Xamarin-GettingStarted Slide Deck](https://docs.google.com/presentation/d/1iz26tSjvx5pR6Jg5pVy3ItZ39gYVELDR6WL0KDpVqBk/edit?usp=sharing)
 
+[Recorded Presentation at the .NET Users Group, March 2017](https://www.youtube.com/watch?v=TOPVkyaE-GY&t=25s)
 
 
 [Recent Profile I created  for a .NET position, heavy on jQuery](https://docs.google.com/presentation/d/1xREnC_4pg2lqV98ojJwYw0gY3r1eyPu_pEclAEj-ahk/edit?usp=sharing)
@@ -17,3 +19,5 @@ This slide deck describes some past projects. I was given the opportunity to des
 [Instagram Profile](https://www.instagram.com/neecetinsley_333/)
 
 [Blog](https://medium.com/@neecetinsley)
+
+[YouTube Channel](https://www.youtube.com/channel/UC7C-Q2DZhSGpxNgU1pB5aUw)
